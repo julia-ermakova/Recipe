@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 out/
-.idea*
+.idea/
 
 
 ### Eclipse ###
@@ -28,3 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 /src/
+!/src/main.java
